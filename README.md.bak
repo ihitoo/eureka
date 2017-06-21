@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+#agentCloudServer
+
+#jetty
+mvn clean jetty:run
+
+#run swagger
+http://localhost:8080/house_case_server/swagger-ui.html
+
+#generate swagger storage doc
+mvn -Dtesting -Dtest=Swagger2MarkupTest test
+
+
+
+=======
+# MS-Eureka
+
+提供微服务的注册
+>>>>>>> 1e74a1e1df7a0854dd9894792ac367b1a44ec9b3
