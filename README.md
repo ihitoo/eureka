@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #agentCloudServer
 
 #jetty
@@ -12,10 +11,3 @@ mvn -Dtesting -Dtest=Swagger2MarkupTest test
 
 
 
-
-
-=======
-# MS-Gateway
-
-提供微服务的路由配置
->>>>>>> ec318342b3d55187b2aebd8bcd3512265ed420c6
