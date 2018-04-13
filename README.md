@@ -1,13 +1,10 @@
-#agentCloudServer
+>**微服务注册中心**
 
-#jetty
-mvn clean jetty:run
+---
 
-#run swagger
-http://localhost:8080/house_case_server/swagger-ui.html
 
-#generate swagger storage doc
-mvn -Dtesting -Dtest=Swagger2MarkupTest test
+>- 端口：8000
+>- swagger：http:127.0.0.1:8000/swagger-ui.html
 
 
 
